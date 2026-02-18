@@ -1,0 +1,11 @@
+[
+  "hello",
+  "null",
+  "undefined",
+  "\"double quotes\"",
+  "'single quotes'",
+  "<script>alert(1)</script>",
+  "😊 emoji",
+  "中文測試",
+  "🐍 python"
+]
