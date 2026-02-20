@@ -1,8 +1,9 @@
 {
   "name": "cypress",
-  "version": "15.10.0",
+  "private": true,
+  "type": "module",
+  "version": "last version",
   "description": "UI Automation tests using Cypress last version",
-  "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
     "cy:run": "cypress run",
@@ -10,9 +11,6 @@
     "cy:chrome": "cypress run --browser chrome",
     "cy:run:spec": "cypress run --spec"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "ajv": "^8.18.0",
     "cypress": "^15.10.0"
