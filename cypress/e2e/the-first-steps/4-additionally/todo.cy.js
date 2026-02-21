@@ -1,4 +1,4 @@
-import task from "./helpers/toDoListTasks.json";
+import task from "../../../helpers/the-first-steps/toDoListTasks.json";
 
 describe("Функциональное тестирование списка задач (Cypress)", () => {
   beforeEach(() => {

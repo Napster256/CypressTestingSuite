@@ -1,4 +1,4 @@
-import {AuthPage} from './helpers/auth.page'
+import { AuthPage } from '../../../helpers/the-first-steps/auth.page';
 
 describe('Проверка авторизации', () => {
   const authPage = new AuthPage();
